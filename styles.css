@@ -1,0 +1,29 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(236, 227, 206);
+}
+
+h1 {
+    color: rgb(115, 144, 114);
+}
+
+h2 {
+    color: rgb(79, 111, 82);
+}
+
+h3 {
+    color: rgb(58, 77, 57);
+}
+
+.vegan-buttermilk-pancakes {
+    height: auto;
+    width: 600px;
+}
+
+.pancake-title {
+    text-align: center;
+}
+
+.home-button {
+    color: orange;
+}
